@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    
+    <style>
+        h1{color:rgb(222, 0, 0);    
+       text-align:center; 
+        }
+        </style>
+    <body>
+    
+      
+      <h1>Official Notice</h1>
+       <p>
+           There is no school on February the second due to elections. Ohr Moshe is closed so don't bother coming
+       </p>
+        
+    </body>
+</html>
